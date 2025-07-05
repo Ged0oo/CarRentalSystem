@@ -1,0 +1,91 @@
+[ {
+  "car" : {
+    "id" : 1,
+    "model" : "Toyota Camry",
+    "type" : "Sedan",
+    "dailyRate" : 50.0,
+    "status" : "Rented",
+    "bookedFrom" : null,
+    "bookedTo" : null
+  },
+  "customer" : {
+    "name" : "John Doe",
+    "email" : "Johndoe@google.com",
+    "phoneNumber" : "123-456-7890"
+  },
+  "rentalDate" : "2025-07-05",
+  "returnDate" : "2025-07-06",
+  "totalCost" : 50.0
+}, {
+  "car" : {
+    "id" : 2,
+    "model" : "Honda Accord",
+    "type" : "Sedan",
+    "dailyRate" : 55.0,
+    "status" : "Rented",
+    "bookedFrom" : null,
+    "bookedTo" : null
+  },
+  "customer" : {
+    "name" : "Jane Smith",
+    "email" : "Janesmith@google",
+    "phoneNumber" : "098-765-4321"
+  },
+  "rentalDate" : "2025-07-05",
+  "returnDate" : "2025-07-07",
+  "totalCost" : 110.0
+}, {
+  "car" : {
+    "id" : 3,
+    "model" : "Ford Explorer",
+    "type" : "SUV",
+    "dailyRate" : 70.0,
+    "status" : "Rented",
+    "bookedFrom" : null,
+    "bookedTo" : null
+  },
+  "customer" : {
+    "name" : "Alice Johnson",
+    "email" : "Alicajohanson@google.com",
+    "phoneNumber" : "555-123-4567"
+  },
+  "rentalDate" : "2025-07-05",
+  "returnDate" : "2025-07-08",
+  "totalCost" : 210.0
+}, {
+  "car" : {
+    "id" : 4,
+    "model" : "Chevrolet Tahoe",
+    "type" : "SUV",
+    "dailyRate" : 75.0,
+    "status" : "Rented",
+    "bookedFrom" : null,
+    "bookedTo" : null
+  },
+  "customer" : {
+    "name" : "Bob Brown",
+    "email" : "Bobbrown@google.com",
+    "phoneNumber" : "444-987-6543"
+  },
+  "rentalDate" : "2025-07-05",
+  "returnDate" : "2025-07-09",
+  "totalCost" : 300.0
+}, {
+  "car" : {
+    "id" : 5,
+    "model" : "Hyundai Elantra",
+    "type" : "Sedan",
+    "dailyRate" : 45.0,
+    "status" : "Available",
+    "bookedFrom" : null,
+    "bookedTo" : null
+  },
+  "customer" : {
+    "name" : "Charlie Black",
+    "email" : "charlie@domain.com",
+    "phoneNumber" : "999-888-7777"
+  },
+  "rentalDate" : "2025-07-05",
+  "returnDate" : "2025-07-06",
+  "totalCost" : 45.0
+} ]

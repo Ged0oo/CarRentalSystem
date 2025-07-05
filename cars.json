@@ -1,0 +1,41 @@
+[ {
+  "id" : 1,
+  "model" : "Toyota Camry",
+  "type" : "Sedan",
+  "dailyRate" : 50.0,
+  "status" : "Available",
+  "bookedFrom" : null,
+  "bookedTo" : null
+}, {
+  "id" : 2,
+  "model" : "Honda Accord",
+  "type" : "Sedan",
+  "dailyRate" : 55.0,
+  "status" : "Notavailable",
+  "bookedFrom" : null,
+  "bookedTo" : null
+}, {
+  "id" : 3,
+  "model" : "Ford Explorer",
+  "type" : "SUV",
+  "dailyRate" : 70.0,
+  "status" : "Available",
+  "bookedFrom" : null,
+  "bookedTo" : null
+}, {
+  "id" : 4,
+  "model" : "Chevrolet Tahoe",
+  "type" : "SUV",
+  "dailyRate" : 75.0,
+  "status" : "Available",
+  "bookedFrom" : null,
+  "bookedTo" : null
+}, {
+  "id" : 5,
+  "model" : "Hyundai Elantra",
+  "type" : "Sedan",
+  "dailyRate" : 45.0,
+  "status" : "Available",
+  "bookedFrom" : null,
+  "bookedTo" : null
+} ]
